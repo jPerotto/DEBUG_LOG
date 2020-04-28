@@ -1,5 +1,5 @@
-#ifndef LOG_DEBUG
-#define LOG_DEBUG
+#ifndef _DEBUG_LOG
+#define _DEBUG_LOG
 
 #include "rom/uart.h"
 #include "soc/uart_reg.h"
